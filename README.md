@@ -15,7 +15,7 @@ font-family: 'Gabia Cheongyeon';
 link
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaCheongyeon/GabiaCheongyeon.css"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/fonts-archive/GabiaCheongyeon/GabiaCheongyeon.css" type="text/css"/>
 ```
 
 &nbsp;
